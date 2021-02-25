@@ -1,0 +1,39 @@
+{
+  "assetProperties": {
+    "title": "administration &#9679; asset properties",
+    "newAssetProperty": {
+      "text": "New Asset Property",
+      "title": "Add new Asset Property"
+    },
+    "filtersButton": {
+      "text": "Asset Properties",
+      "title": "Click to see the available filters."
+    },
+    "deleteAssetProperty": {
+      "text": "Delete",
+      "title":
+        "{value, plural, =0{Select asset properties you want to delete} one{Delete the selected asset property} other{Delete the selected asset properties}}."
+    },
+    "AssetProperty":"{value, plural, =0{asset properties} one{asset property} other{{value} asset properties}}",
+    "viewAssetPropertyTitle": "View asset property",
+    "editAssetPropertyTitle": "Edit asset property",
+    "deleteAssetPropertyTitle": "Delete asset property",
+    "value": "Value",
+    "assetCount":"Asset Count",
+    "customerName": "Customer",
+    "updatedDate": "Last Update",
+    "newAssetPropertyTitle": "New asset property",
+    "userUpdate": "Updated by",
+    "createdDate": "Created on",
+    "creatorUsername":"Created by",
+    "assetProperties": "asset properties",
+    "details": "Asset property details",
+    "isActive": "ACTIVE",
+    "deleteAssetPropertyModalTitle": "Delete asset property",
+    "deleteAssetPropertyQuestion": "Are you sure you want to delete the asset property {value}?",
+    "assetPropertyUpdated" : "Asset property updated successfully.",
+    "assetPropertyCreated" : "Asset property created successfully.",
+    "assetPropertyDeleted": "Asset property deleted",
+    "assetPropertyDeletionFailed": "Deletion Failed"
+  }
+}
