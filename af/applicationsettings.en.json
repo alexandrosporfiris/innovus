@@ -1,0 +1,58 @@
+{
+  "applicationSettings": {
+    "title": "administration &#9679; Application Settings",
+    "newApplicationSetting": {
+      "text": "neo",
+      "title": "Add new Application Setting"
+    },
+    "filtersButton": {
+      "text": "Application Settings",
+      "title": "Click to see the available filters."
+    },
+    "selectedApplicationSettings":
+      "{value, plural, =0{No application settings selected} one{One application setting selected} other{{value} application settings selected}}.",
+    "deleteApplicationSetting": {
+      "text": "Delete",
+      "title":
+        "{value, plural, =0{Select application settings you want to delete} one{Delete the selected application setting} other{Delete the application settings}}."
+    },
+    "cancelSelection": {
+      "text": "Cancel",
+      "title":
+        "Deselect the {value, plural, =0{selected application settings} one{selected application setting} other{selected application settings}}."
+    },
+
+    "applicationSetting":"{value, plural, =0{application settings} one{application setting} other{{value} application settings}}",
+    "viewApplicationSettingTitle": "View application setting",
+    "editApplicationSettingTitle": "Edit application setting",
+    "deleteApplicationSettingTitle": "Delete application setting",
+    "newApplicationSettingTitle": "Create application setting",
+    "name": "Name",
+    "customerName": "Customer",
+    "creatorUsername":"Created by",
+    "active": {
+      "title": "Filter by Active application settings"
+    },
+    "deleted": {
+      "title": "Filter by Deleted application settings"
+    },
+    "onlyDeletedWillBeShown": "Only deleted application settings will be shown",
+    "applicationSettings": "Application Settings",
+    "details": "Application Settings details",
+    "isActive": "ACTIVE",
+    "isDeleted": "DELETED",
+    "status": "Status",
+    "deleteApplicationSettingModalTitle": "Delete application setting",
+    "deleteApplicationSettingQuestion": "Are you sure you want to delete the application setting {value}?",
+    "applicationSettingUpdated" : "Application setting updated successfully.",
+    "applicationSettingCreated" : "Application setting created successfully.",
+    "bulkUpload": "Bulk create application settings.",
+    "applicationSettingDeleted": "Application setting deleted",
+    "applicationSettingDeletionFailed": "Deletion Failed",
+
+    "key": "Key",
+    "value": "Value"
+
+
+  }
+}
